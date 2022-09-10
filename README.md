@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anhbq97
 - 👀 I’m interested in Game, Read book or hang out with friends
-- 🌱 I’m currently learning PHP, Vue, React and more
+- 🌱 I’m currently learning PHP, MySql, Javascript, Flutter and more
 - 📫 How to reach me anhbq.it97@gmail.com OR my website: https://poorclu.site
 
 <!---
